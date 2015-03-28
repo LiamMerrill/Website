@@ -1,0 +1,104 @@
+body, .details {
+background: #ccc;
+}
+.name {
+font-family: Arial;
+font-size: 20px;
+color:white;
+}
+
+
+.half {
+float: left;
+width: 50%;
+}
+
+.header, .experiences, .details {
+padding: 20px;
+}
+
+.header {
+background: #222;
+color: white;
+top: 5px;
+left: 8px;
+right: 507px;
+position: fixed;
+height: 130px;
+}
+
+.header .name {
+float: left;
+width: 300px;
+
+}
+
+.header h1 {
+font-size: 42px;
+margin-bottom: 10px;
+}
+
+.header h2 {
+font-family: "Georgia", Serif;
+font-weight: normal;
+font-style: italic;
+color: #666;
+}
+
+.header dl {
+float: right;
+margin: 0;
+}
+
+.experiences {
+background: #eee;
+margin-top: 200px;
+height:1350px;
+width:710px;
+
+
+}
+
+.experiences h3 {
+font-size: 30px;
+line-height: 36px;
+}
+
+.experiences h4 {
+margin-top: 10px;
+display:inline;
+}
+
+.experiences ul {
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+.Research h1 {
+font-family:Arial;
+font-size:40px;
+}
+.Research {
+position: fixed;
+float: right;
+left:770px;
+top:5px;
+bottom:5px;
+right:5px;
+padding:20px;
+background-color: #222;
+color: white;
+font-family:"Georgia", Serif;
+}
+.skills ul {
+list-style-type: none;
+margin: 0 0 10px 0;
+}
+
+dl dt {
+color: #555;
+}
+
+dl dd {
+margin: 0 0 10px 0;
+}

@@ -1,0 +1,265 @@
+
+
+.fiction {
+	height:500px;
+	width:8%;
+	float:left;
+	background:transparent url('http://liammerrill.com/tree_1.jpg')center top no-repeat;
+}
+.fiction:hover{
+	background-image: url('http://liammerrill.com/Fiction.png');
+}
+.strange {
+	text-align:center;
+	text-shadow:1px 1px 3px #888888;
+	height:500px;
+	width:550px;
+	background-image:url("debut_light_@2X.png");
+	margin:10px 40px 10px 330px;
+	border: 2px solid black;
+	}
+
+.strange img {
+	border: 2px solid #1b2220;
+	box-shadow:5px 5px 3px #888888;
+	
+
+}
+.backgroundF {
+	background-image:url("wild_oliva.png");
+	margin-top:40px;
+	width:1100px;
+}
+.blurb {
+	float:left;
+	position:absolute;
+	width:300px;
+	margin-top:80px;
+	margin-left:30px;
+	color:white;
+	font-family:Helvetica;
+}
+.blurb a {
+	padding:0;
+	color:white;
+}
+.blurb a:visited {
+	color:white;
+}
+
+.titlef {
+	margin-left:5px;
+	padding:10px;
+	color:black;
+	font-size:25px;
+	font-family:Helvetica;
+}
+.titlef a {
+	color:black;
+}
+
+.journalism {
+	height:500px;
+	width:8%;
+	float:left;
+	background:transparent url('http://liammerrill.com/tree_2.jpg')center top no-repeat;
+}
+.journalism:hover{
+	background-image: url('http://liammerrill.com/Journalism.png');
+	
+}
+.backgroundJ {
+	background-image:url("wild_oliva.png");
+}
+#container {
+    height: 480px;
+    background-image:url("debut_light_@2X.png");
+    float: left;
+  	border:2px solid black;
+	margin-top:30px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    padding: 20px 20px 20px 20px;
+    position: absolute;
+    z-index: 0;
+}
+#container img {
+	margin-top:50px;
+	border:2px solid black;
+	box-shadow:5px 5px 3px #888888;
+	
+}
+
+
+
+
+
+.interviews {
+	height:500px;
+	width:8%;
+	float:left;
+	background:transparent url('http://liammerrill.com/tree_3.jpg')center top no-repeat;
+}
+.interviews:hover{
+	background-image: url('http://liammerrill.com/Interviews.png');
+}
+.backgroundI {
+	background-image: url("wild_oliva.png");
+	margin-top:40px;
+	margin-left:17px;
+	width:1100px;
+}
+.title {
+	color:black;
+	font-family:Helvetica;
+	margin-left:20px;
+	padding:20px;
+}
+.title a:visited {
+	color:white;
+}
+.slow {
+	float:left;
+	margin-top:72px;
+	margin-left:50px;
+	text-shadow:1px 1px 2px #888888;
+}
+.slow img {
+	border: 2px solid black;
+	box-shadow:5px 5px 3px #888888;
+}
+.Anglo {
+	float:right;
+	position:absolute;
+	margin-left:510px;
+	margin-top:60px;
+	text-shadow:1px 1px 2px #888888;
+	
+}
+.Anglo img {
+	border: 2px solid black;
+	box-shadow:5px 5px 3px #888888;
+	
+}
+.title1 {
+	color:black;
+	font-family:Helvetica;
+	padding:20px;
+	text-align:center;
+	margin-right:0px;
+}
+.margins2 {
+background-image:url("debut_light_@2X.png");
+margin:10px 0px 10px 50px;
+border: 2px solid black;
+width:1030px;
+height:500px;
+
+}
+
+
+
+.Reviews {
+	height:500px;
+	width:8%;
+	float:left;
+	background:transparent url('http://liammerrill.com/tree_4.jpg')center top no-repeat;
+}
+.Reviews:hover{
+	background-image: url('http://liammerrill.com/Review.png');	
+}
+
+.backgroundR {
+	background-image:url("wild_oliva.png");
+}
+.stingingfly {
+border:2px solid black;
+margin-top:50px;
+width:600px;
+height:470px;
+margin-right:auto;
+margin-left:auto;
+background-image:url("debut_light_@2X.png");
+
+
+}
+.stingingfly img {
+	box-shadow:5px 5px 3px #888888;
+	width:490px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:45px;
+	margin-bottom:20px;
+	border:2px solid #1b2220;
+}
+
+
+
+
+
+.CV {
+	height:500px;
+	width:8%;
+	float:left;
+	background:transparent url('http://liammerrill.com/tree_5.jpg')center top no-repeat;
+}
+.CV:hover{
+	background-image: url('http://liammerrill.com/CV.png');	
+}
+
+
+
+
+a {
+	padding:55px;	
+}
+.description, .name {
+	width:7%;
+	float:left;
+	padding:5px;
+	font-family:Helvetica;
+	font-size:15px;
+	margin-top:50px;
+}
+.email {
+	width:7%;
+	font-size:13px;
+	padding-top:60px;
+}
+.email a {
+	color:black;
+	padding:0px;
+}
+.email a:visited {
+	color:black;
+	padding:0px;
+}
+.name a {
+	padding:0px;
+	color:black;
+}
+.copyright {
+	margin-top:290px;
+	font-size:11px;
+
+
+.arrow {
+	border-right:20px double rgba(0, 0, 0, .5);
+	height:100%;
+}
+
+
+a visited {
+	text-decoration:none;
+	border-style:none;
+}
+
+
+
+
+}
+.width {
+	width:1150px
+	}
+
+	

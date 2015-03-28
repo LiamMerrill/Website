@@ -1,0 +1,196 @@
+.width {
+	width:1080px;
+	
+}
+.liam {
+	
+	font-size:55px;
+	border: 6px double rgba(0, 0, 0, .75) ;
+	border-width:10px;
+	position:relative;
+	margin-top:40px;
+	margin-right:90px;
+	margin-left:80px;
+	font-family:Trebuchet;
+	color: rgba(0, 0, 0);
+}
+.liam div {
+	
+	position:relative;
+	margin-left:220px;
+	padding:15px;
+}
+
+.address {
+font-family:Trebuchet;
+font-size:14px;
+float:right;
+position:relative;
+margin-right:125px;
+margin-top:70px;
+text-align:center;
+color: rgba(0, 0, 0, .8);
+}
+.information {
+	font-family:Trebuchet;
+	font-size:14px;
+	float:left;
+	margin-left:110px;
+	margin-top:70px;
+	text-align:center;
+	position:absolute;
+	color: rgba(0, 0, 0, .8);
+}
+.title {
+
+	font-weight:bold;
+	
+}
+.date {
+	float:right;
+}
+.body {
+	margin:50px 180px 50px 115px;
+}
+.wp {
+	display:block;
+	top:0;
+}
+.content {
+	font-family:Trebuchet;
+	display:block;
+	margin-left:50px;
+	border-left: 2px solid rgba(0, 0, 0, .5);
+	padding-left:10px;
+}
+.content p {
+	text-align:left;
+	font-size:15.5px;
+	padding:0px;
+	margin-bottom:10px;
+	
+}
+.wp p {
+font-size: 25px;
+margin-bottom: 15px;
+margin-left:50px;
+text-align:left;
+padding-bottom:10px;
+border-bottom:2px black solid;
+color: rgba(0, 0, 0, .75);
+
+}
+a {
+	color:black;
+	text-decoration:none;
+}
+a:visited {
+	color:black;
+	text-decoration:none;
+}
+.CV {
+	
+	margin-left:40px;
+	margin-top:20px;
+	position:absolute;
+	width:1040px;
+	
+}
+
+
+
+
+.background, .header{
+	background-image:url("wild_oliva.png");
+}
+.me {
+	margin-top:20px;
+	padding: 40px;
+}
+.me a {	
+	color:black;
+}
+.me a:visited {
+	color:black;
+}
+.name {
+font-family: helvetica;
+text-shadow:1px 1px 3px #888888;
+
+font-size: 30px;
+color: black;
+margin-top:70px;
+margin-left:600px;
+}
+.info {
+	margin-left:570px;
+	top:150px;
+	font-size:12px;
+	position:absolute;
+	font-family:helvetica;
+	text-shadow:1px 1px 3px #888888;
+	
+}
+.photo {
+	position:relative;
+	width:150px;
+	height:150px;
+	border-radius:75px;
+	border:3px solid black;
+	
+	background: url('http://liammerrill.com/LiamPhoto.jpg') no-repeat;
+	text-shadow:5px 5px 3px #888888;
+}
+ .experiences {
+padding: 10px;
+margin-left:220px;
+font-family:helvetica;
+text-shadow:1px 1px 3px #888888;
+font-color:white;
+}
+.header {
+background: white;
+top: 5px;
+left: 8px;
+right: 8px;
+background-image:url("wild_oliva.png");
+}
+.header .name {
+float: left;
+width: 300px;
+margin-left:245px;
+}
+.header  {
+font-family: helvetica;
+font-weight: normal;
+margin-top:90px;
+}
+.header dl {
+float: left;
+margin: 0;
+}
+.experiences {
+background-image:url("debut_light_@2X.png");
+margin-top: 0px;
+height: 400px;
+width: 730px;
+border:3px black solid;
+font-color:black;
+}
+.experiences h3 {
+font-size: 30px;
+line-height: 36px;
+}
+.experiences h4 {
+margin-top: 10px;
+display: inline;
+}
+.experiences ul {
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.education {
+	text-align:center;
+}
+
+
